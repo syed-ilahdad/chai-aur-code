@@ -1,2 +1,3 @@
 "# chai-aur-code" 
-start ing project
+starting project
+ JavaScript and react.js
